@@ -1,10 +1,7 @@
 # About Me-
 Hey there! 👋 I'm Saurabh Kumar, a second-year BCA student passionate about computer applications. I'm diving into data analytics, leveraging my skills in programming, problem-solving, and database management. Let's connect and explore opportunities together!
 
-<p align="center">
-  <img src="<p align="center">
-  <img src="[C:\Users\HP\dESKTOP\download.jpg.](https://www.google.com/imgres?q=software%20engineer%20background%20computer%20science%20images%20hd%201500*1000&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1081869336%2Fphoto%2Fkeeping-up-with-modern-advancements.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3D4iG_ApLBsKwlazb5myV_WZrtHqDanZAxhHbWsk-bzRE%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fcomputer-software-development&docid=2h7GyJBvkY8cNM&tbnid=u9th0PX9MYQfcM&vet=12ahUKEwjO8Nz3u8yLAxVvSGcHHcY5ExYQM3oECHAQAA..i&w=612&h=408&hcb=2&ved=2ahUKEwjO8Nz3u8yLAxVvSGcHHcY5ExYQM3oECHAQAA)" alt="Project Logo" width="200" />
-</p>
+
 
 
 
