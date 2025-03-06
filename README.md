@@ -1,3 +1,5 @@
+<img src="C:\Users\HP\Desktop\download.jpg">
+
 ![Alt text](‪"C:\Users\HP\Desktop\download.jpg")
 # About Me-
 Hey there! 👋 I'm Saurabh Kumar, a second-year BCA student passionate about computer applications. I'm diving into data analytics, leveraging my skills in programming, problem-solving, and database management. Let's connect and explore opportunities together!
