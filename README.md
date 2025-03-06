@@ -1,10 +1,6 @@
+![Alt text](‪"C:\Users\HP\Desktop\download.jpg")
 # About Me-
 Hey there! 👋 I'm Saurabh Kumar, a second-year BCA student passionate about computer applications. I'm diving into data analytics, leveraging my skills in programming, problem-solving, and database management. Let's connect and explore opportunities together!
-
-![Alt text](‪"C:\Users\HP\Desktop\download.jpg")
-
-
-
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
